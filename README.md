@@ -9,3 +9,4 @@ SafeCue uses a custom-trained machine learning model to classify environmental s
 
 # Hardware Implementation
 The system uses the Qualcomm Arduino UNO Q to run the trained model and connect software predictions to a physical LED circuit. When a sound is classified, the corresponding hardware output provides a visual cue to represent the detected category. This integration demonstrates how embedded computing and machine learning can work together to translate environmental audio into accessible visual feedback.
+<img width="679" height="720" alt="Screenshot 2026-10-20 at 9 39 33 PM" src="https://github.com/user-attachments/assets/4a56548a-787e-44da-b2fc-04549e1f1fb2" />
